@@ -8,8 +8,8 @@ T = 3 # La maturité
 
 # Partie 2 :
 # Initialisation des paramètres numériques :
-M = 100 # Le nombre de pas de temps
-N = 400 # Le nombre de pas de sous-jacent
+M = 100 # Le nombre de pas de sous-jacent
+N = 400 # Le nombre de pas de temps
 Szero = 0 # La valeur minimale du sous-jacent
 Smax = 150 # La valeur maximale du sous-jacent
 # Paramètres SOR :
